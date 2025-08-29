@@ -9,10 +9,10 @@ I'm a passionate full stack developer from India with a strong focus on building
 
 ## 🚀 Current Focus
 
-- 🔭 **Building:** YouTube Clone – A comprehensive video streaming platform integrating AI/ML for personalized recommendations and smart search  
-- 🌱 **Learning:** Agentic AI and advanced machine learning techniques  
-- 🤝 **Collaborating:** Open to partnerships on MERN-based projects  
-- 💡 **Exploring:** Modern web technologies and intelligent system integration  
+- 🔭 **Building:** YouTube Clone with AI/ML-powered recommendations  
+- 🌱 **Learning:** Agentic AI and advanced ML  
+- 🤝 **Collaborating:** MERN-based projects  
+- 💡 **Exploring:** Modern web & AI integration  
 
 ## 🛠️ Technical Stack
 

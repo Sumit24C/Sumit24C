@@ -1,5 +1,5 @@
 # Sumit Sonkamble
-**Full Stack Developer | AI Enthusiast | Open Source Contributor**
+**Full Stack Developer | MERN Stack**
 
 ---
 
@@ -16,31 +16,22 @@ I'm a passionate full stack developer from India with a strong focus on building
 
 ## 🛠️ Technical Stack
 
-### **Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<p align="left">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,html,css" />
 
-### **Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 
-### **Databases**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-### **Tools & Services**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Appwrite](https://img.shields.io/badge/-Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white)
+  <!-- Tools & Services -->
+  <img src="https://skillicons.dev/icons?i=git,postman,figma" />
+</p>
 
 ## 📊 GitHub Analytics
 
@@ -54,14 +45,6 @@ I'm a passionate full stack developer from India with a strong focus on building
 
 </div>
 
-## 🏆 Achievements
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sumit24c&theme=tokyonight&no-frame=true&column=7)
-
-</div>
-
 ## 🤝 Let's Connect
 
 I'm always interested in connecting with fellow developers, discussing new technologies, and exploring collaboration opportunities.
@@ -70,20 +53,11 @@ I'm always interested in connecting with fellow developers, discussing new techn
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/sumit24c)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonkamblesumit236@gmail.com)
 
-## 💼 Open for Opportunities
-
-- **Collaboration:** AI/ML projects and innovative web applications
-- **Freelance:** Full stack development and technical consulting
-- **Open Source:** Contributing to meaningful projects that create impact
-
----
 
 <div align="center">
   
 *"Code is poetry written in logic"*
 
 **Thanks for visiting my profile! Feel free to explore my repositories and reach out for any collaboration opportunities.**
-
-![Profile Views](https://komarev.com/ghpvc/?username=sumit24c&color=blueviolet&style=flat-square)
 
 </div>

@@ -29,7 +29,7 @@ I'm a passionate full stack developer from India with a strong focus on building
 
 </p>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   
@@ -41,7 +41,7 @@ I'm a passionate full stack developer from India with a strong focus on building
 
 </div>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always interested in connecting with fellow developers, discussing new technologies, and exploring collaboration opportunities.
 

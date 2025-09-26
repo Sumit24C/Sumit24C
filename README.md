@@ -3,18 +3,16 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a passionate full stack developer from India with a strong focus on building scalable web applications and exploring the cutting-edge world of AI. I enjoy creating meaningful digital experiences and contributing to innovative projects that make a difference.
 
-## 🚀 Current Focus
+## Current Focus
 
-- 🔭 **Building:** YouTube Clone with AI/ML-powered recommendations  
-- 🌱 **Learning:** Agentic AI and advanced ML  
 - 🤝 **Collaborating:** MERN-based projects  
 - 💡 **Exploring:** Modern web & AI integration  
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 <p align="left">
   <!-- Languages -->
@@ -29,8 +27,6 @@ I'm a passionate full stack developer from India with a strong focus on building
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-  <!-- Tools & Services -->
-  <img src="https://skillicons.dev/icons?i=git,postman,figma" />
 </p>
 
 ## 📊 GitHub Analytics
@@ -50,7 +46,6 @@ I'm a passionate full stack developer from India with a strong focus on building
 I'm always interested in connecting with fellow developers, discussing new technologies, and exploring collaboration opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-sonkamble-61b9502b0)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/sumit24c)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonkamblesumit236@gmail.com)
 
 

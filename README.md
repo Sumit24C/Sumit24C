@@ -1,5 +1,5 @@
 # Sumit Sonkamble
-**Full Stack Developer | MERN Stack**
+**Full Stack Developer**
 
 ---
 

@@ -5,28 +5,25 @@
 
 ## About Me
 
-I'm a passionate full stack developer from India with a strong focus on building scalable web applications and exploring the cutting-edge world of AI. I enjoy creating meaningful digital experiences and contributing to innovative projects that make a difference.
-
-## Current Focus
-
-- 🤝 **Collaborating:** MERN-based projects  
-- 💡 **Exploring:** Modern web & AI integration  
+I'm a passionate full stack developer with a strong focus on building scalable applications. I enjoy creating meaningful digital experiences and contributing to innovative projects that make a difference.
 
 ## Technical Stack
 
 <p align="left">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,java,html,css" />
 
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=react,tailwind" />
 
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,redis" />
 
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
+  <!-- DevOps / Tools -->
+  <img src="https://skillicons.dev/icons?i=docker" />
 </p>
 
 ## GitHub Analytics
